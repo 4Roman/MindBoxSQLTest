@@ -1,2 +1,2 @@
 # MindBoxSQLTest
-![Иллюстрация к проекту](https://github.com/4Roman/MindBoxSQLTest/raw/master/Screenshot 2022-05-21 214708.jpg)
+![Иллюстрация к проекту](https://github.com/4Roman/MindBoxSQLTest/blob/b036642c245c286ea844f116bac0513277c45c3c/BDwithSQLquery.jpg)
